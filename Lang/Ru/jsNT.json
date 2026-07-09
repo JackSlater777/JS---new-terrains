@@ -1,0 +1,10 @@
+{
+    "jsNewTerrains": {
+        "terrains": {
+            "10": {
+                "name": "Высокогорье",
+                "tavernRumor": "высоко в горах."
+            }
+        }
+    }
+}

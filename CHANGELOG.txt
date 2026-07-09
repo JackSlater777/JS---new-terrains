@@ -1,0 +1,6 @@
+Version 1.0 (09.07.2026)
+- first release
+- !!! THIS MODE DOESNOT WORK WITHOUT JS - map generation fixes !!!
+- added a possibility to add a new terrain via json-file and adding required resource files
+- added highlands; it's a native terrain for conflux now
+- added 2 rand_trn.txt files: for basic wog version and wog graphic fix version; basic version is active by default; check /data/jsnewterrains_common.pac for the files

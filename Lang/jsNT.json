@@ -1,0 +1,20 @@
+{
+    "jsNewTerrains": {
+        "terrains": {
+            "nTerrains": 11,
+
+            "10": {
+                "name": "Highlands",
+                "tavernRumor": "high in the mountains.",
+                "tileDefName": "HGLNTL.def",
+                "horseSound": "horse30.wav",
+                "horseSoundAlt": "horse20.wav",
+                "ambientMusic": "HIGHLANDS",
+                "spriteDefCount": 124,
+                "stepCost": [100, 100, 100, 100],
+                "combatField": "CmBkHl.pcx",
+                "nativeForTownId": 8
+            }
+        }
+    }
+}
