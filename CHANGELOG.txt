@@ -1,3 +1,8 @@
+Version 1.2 (22.07.2026)
+- added improved tiles for grass and water
+- now this mod is independent of the hd-mod version; it still requires JS - map generation fixes, though
+
+
 Version 1.1 (10.07.2026)
 - fixed a bug: there was no native terrain bonus for conflux creatures in combat
 
