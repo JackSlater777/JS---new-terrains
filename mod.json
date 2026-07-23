@@ -1,6 +1,6 @@
 {
 	"caption": {
-		"en_US": "JS - new terrains v.1.2",
+		"en_US": "JS - new terrains v.1.2.1",
 		"ru_RU": ""
 	},
 	"description": {
@@ -19,7 +19,7 @@
 		"file": "js - new terrains.png",
 		"index": 0
 	},
-	"mod_version": "1.2",
+	"mod_version": "1.2.1",
 	"priority": 6,
 	"compatibility": {
 		"class": "default",
