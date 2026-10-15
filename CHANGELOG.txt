@@ -1,3 +1,7 @@
+Version 1.3 (15.10.2026)
+- replaced wgfRand_trn.txt, it contains the latest changes from WGF mod (2.29.0)
+
+
 Version 1.2 (22.07.2026)
 - added improved tiles for grass and water
 - now this mod is independent of the hd-mod version; it still requires JS - map generation fixes, though
