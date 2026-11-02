@@ -1,3 +1,7 @@
+Version 1.5.1 (02.11.2026)
+- fixed a bug when a non-snow tavern was generated on the snow
+
+
 Version 1.5 (31.10.2026)
 - added all decorations that present in hota 1.7.3
 - updated text file for compatibility with wgf mod
