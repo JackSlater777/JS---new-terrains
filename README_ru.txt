@@ -2,6 +2,14 @@
 !!!!! ВНИМАНИЕ !!!!!
 Мод требует JS - map generation fixes!
 *********************************
+Если Вы играете без JS - new objects:
+заходите в
+\Mods\JS - new terrains\Lang\
+и "выключаете" jsNT_jsNO_RMG_CustomizeObjectProperties.json
+дописывая к его разрешению .off.
+Или можете в папке своего мода добавил в /lang/ пустой jsNT_jsNO_RMG_CustomizeObjectProperties.json
+Это перезапишет его.
+*********************************
 
 Мод добавляет по умолчанию почву Высокогорье. Это родная почва для Сопряжения.
 
